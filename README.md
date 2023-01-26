@@ -14,3 +14,6 @@ Lecture2:
 - git survival guide
 - sympy
 - decorators 
+
+
+TEST hkjhkjhkjhkj
